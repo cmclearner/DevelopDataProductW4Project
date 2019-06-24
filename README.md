@@ -28,11 +28,11 @@ This data set contains statistics, in arrests per 100,000 residents for assault,
 
 The repository has:
 
-ui.R
-server.R
-README.md
+    ui.R
+    server.R
+    README.md
 
 Resource links:
 
-Shiny application publication on ShinyApps.io server at: https://cmclearner.shinyapps.io/project/
-Project slide publication on RPubs at: 
+    Shiny application publication on ShinyApps.io server at: https://cmclearner.shinyapps.io/project/
+    Project slide publication on RPubs at: 
