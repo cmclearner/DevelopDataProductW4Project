@@ -18,7 +18,7 @@ The application must include the following:
     4. You must also include enough documentation so that a novice user could use your application.
     5. The documentation should be at the Shiny website itself. Do not post to an external link.
 
-The Shiny application in question is entirely up to you. However, if you're having trouble coming up with ideas, you could start from the simple prediction algorithm done in class and build a new algorithm on one of the R datasets packages. Please make the package simple for the end user, so that they don't need a lot of your prerequisite knowledge to evaluate your application. You should emphasize a simple project given the short time frame.
+
 
 Application - Predicting Assault Rate by using USArrests datasets
 
