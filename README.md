@@ -35,4 +35,4 @@ The repository has:
 Resource links:
 
     Shiny application publication on ShinyApps.io server at: https://cmclearner.shinyapps.io/project/
-    Project slide publication on RPubs at: 
+    Project slide publication on ShinyApps.io server at: https://cmclearner.shinyapps.io/ProjectW4/#1
